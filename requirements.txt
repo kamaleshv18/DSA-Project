@@ -1,0 +1,4 @@
+# DSA Traffic Racer Dependencies
+# Note: pygame-ce (Pygame Community Edition) is fully compatible with pygame
+# and provides active support for modern Python versions (3.11, 3.12, 3.13, 3.14+).
+pygame-ce>=2.5.0

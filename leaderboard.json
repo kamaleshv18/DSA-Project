@@ -1,0 +1,56 @@
+[
+  {
+    "player": "M.Tech Scholar",
+    "score": 2450,
+    "level": 5,
+    "time": "58s"
+  },
+  {
+    "player": "DSA Professor",
+    "score": 2100,
+    "level": 4,
+    "time": "62s"
+  },
+  {
+    "player": "Algo Racer",
+    "score": 1820,
+    "level": 3,
+    "time": "65s"
+  },
+  {
+    "player": "Traffic AI",
+    "score": 1400,
+    "level": 2,
+    "time": "50s"
+  },
+  {
+    "player": "Player",
+    "score": 1335,
+    "level": 1,
+    "time": "Complete"
+  },
+  {
+    "player": "Player",
+    "score": 1081,
+    "level": 1,
+    "time": "Complete"
+  },
+  {
+    "player": "Novice Driver",
+    "score": 850,
+    "level": 1,
+    "time": "45s"
+  },
+  {
+    "player": "Player",
+    "score": 554,
+    "level": 1,
+    "time": "Complete"
+  },
+  {
+    "player": "Player",
+    "score": 0,
+    "level": 1,
+    "time": "Complete"
+  }
+]
